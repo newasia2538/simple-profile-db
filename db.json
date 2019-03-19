@@ -8,9 +8,7 @@
   "OverView" : {
     "Header" : {
       "h1Tag" : "What I do.",
-      "pTag" : "I'm Front-End Developer in Bangkok, Thailand. I'm experience in Front-end Developer for a few years.<br/>
-            Maybe, I'm not good enough in HTML, CSS, Javascript, jQuery (or any javascript framework) including other library for Front-End development
-            but in the future will be."
+      "pTag" : "I'm Front-End Developer in Bangkok, Thailand. I'm experience in Front-end Developer for a few years.<br/> Maybe, I'm not good enough in HTML, CSS, Javascript, jQuery (or any javascript framework) including other library for Front-End development but in the future will be."
     },
     "WebDesign" : {
       "h2Tag" : "UI Design",
@@ -24,8 +22,7 @@
   "MyProject" : {
     "afossAngStrom" : {
       "h1Tag" : "My Projects",
-      "pTag" : "I used to build web development project and Android development project.<br/>
-            Here are all my projects I can show you. "
+      "pTag" : "I used to build web development project and Android development project.<br/> Here are all my projects I can show you."
     }
   }
 }
