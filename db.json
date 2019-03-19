@@ -1,8 +1,31 @@
 {
-  "home" : {
-    "title" : "Hi"
+  "Home" : {
+    "Header" : {
+    "h1Tag" : "Hi, I'm Athiporn Chantachai.",
+    "pTag" : "Front-end Developer who passionate about awesome UX&UI web design"
+    }
   },
-  "Experience" : {
-    "title" : "Hi"
+  "OverView" : {
+    "Header" : {
+      "h1Tag" : "What I do.",
+      "pTag" : "I'm Front-End Developer in Bangkok, Thailand. I'm experience in Front-end Developer for a few years.<br/>
+            Maybe, I'm not good enough in HTML, CSS, Javascript, jQuery (or any javascript framework) including other library for Front-End development
+            but in the future will be."
+    },
+    "WebDesign" : {
+      "h2Tag" : "UI Design",
+      "pTag" : "My approach to website design is to create a great UI while ensuring ease of use and simplicity for user."
+    },
+    "WebDev" : {
+      "h2Tag" : "Web Development",
+      "pTag" : "I'm building out the visual components of a website. Using HTML, CSS , and Javascript from scratch."
+    }
+  },
+  "MyProject" : {
+    "afossAngStrom" : {
+      "h1Tag" : "My Projects",
+      "pTag" : "I used to build web development project and Android development project.<br/>
+            Here are all my projects I can show you. "
+    }
   }
 }
